@@ -1,5 +1,12 @@
 # My Concurrency Notes
 
+<!-- vim-markdown-toc GFM -->
+
+* [Normal Loop](#normal-loop)
+* [Using `go` routines in functions](#using-go-routines-in-functions)
+* [Using `sync.WaitGroup` to capture standard output](#using-syncwaitgroup-to-capture-standard-output)
+
+<!-- vim-markdown-toc -->
 
 ## Normal Loop
 
